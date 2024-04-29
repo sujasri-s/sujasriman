@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujasri S</h1>
-<h3 align="center">A passionate Software Tester - Manual</h3>
+<h3 align="center">Software Tester - Manual</h3>
 
 - 🌱 I’m currently learning **Automation testing course**
 
